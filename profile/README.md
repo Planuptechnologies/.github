@@ -14,4 +14,4 @@ We build modern, high-performance websites and apps for small businesses.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-📧 Contact us: [hello@planuptechnologies.com](mailto:hello@planuptechnologies.com)   
+📧 Contact us: [info@planuptechnologies.com](mailto:info@planuptechnologies.com)   
